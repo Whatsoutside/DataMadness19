@@ -1,3 +1,5 @@
 # DataMadness19
 
-ez
+Notebook + Analysis
+Video
+
