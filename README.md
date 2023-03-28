@@ -1,6 +1,6 @@
-# DataMadness19
+# DataMadness Group 19
 
-Olympic games data from 1886 till 2016
+Olympic games data from 1896 till 2016
 
 Notebook + Analysis
 Video
